@@ -1,0 +1,105 @@
+[{
+    "artist":"Tinie Tempah",
+    "title": "Frisky (Live from SoHo)",
+    "usages": {
+      "download": true,
+      "streaming": false
+    },
+    "startDate": "2012-02-01",
+    "endDate": null,
+    "partners": {
+      "download": "iTunes",
+      "streaming": null
+    }
+
+},
+{
+  "artist":"Tinie Tempah",
+  "title": "Miami 2 Ibiza",
+  "usages": {
+    "download": true,
+    "streaming": false
+  },
+  "startDate": "2012-02-01",
+  "endDate": null,
+  "partners": {
+    "download": "iTunes",
+    "streaming": null
+  }
+
+},
+{
+  "artist":"Tinie Tempah",
+  "title": "Till I'm Gone",
+  "usages": {
+    "download": true,
+    "streaming": false
+  },
+  "startDate": "2012-08-01",
+  "endDate": null,
+  "partners": {
+    "download": "iTunes",
+    "streaming": null
+  }
+
+},
+{
+  "artist":"Monkey Claw",
+  "title": "Black Mountain",
+  "usages": {
+    "download": true,
+    "streaming": false
+  },
+  "startDate": "2012-02-01",
+  "endDate": null,
+  "partners": {
+    "download": "iTunes",
+    "streaming": null
+  }
+
+},
+{
+  "artist":"Monkey Claw",
+  "title": "Iron Horse",
+  "usages": {
+    "download": true,
+    "streaming": true
+  },
+  "startDate": "2012-06-01",
+  "endDate": null,
+  "partners": {
+    "download": "iTunes",
+    "streaming": "YouTube"
+  }
+
+},
+{
+  "artist":"Monkey Claw",
+  "title": "Motor Mouth",
+  "usages": {
+    "download": true,
+    "streaming": true
+  },
+  "startDate": "2011-03-01",
+  "endDate": null,
+  "partners": {
+    "download": "iTunes",
+    "streaming": "YouTube"
+  }
+
+},
+{
+  "artist":"Monkey Claw",
+  "title": "Christmas Special",
+  "usages": {
+    "download": false,
+    "streaming": true
+  },
+  "startDate": "2011-03-01",
+  "endDate": "2012-12-31",
+  "partners": {
+    "download": null,
+    "streaming": "YouTube"
+  }
+
+}]
